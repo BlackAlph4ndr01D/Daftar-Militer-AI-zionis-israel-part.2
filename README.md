@@ -1,93 +1,36 @@
-# lavendermilitaryai.html
-Lavender Miilitary AI memainkan peran penting terhadap penargetan pengeboman warga Palestina, terutama pada tahap awal perang.
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Lavender — Sistem A.I Militer Israel</title>
-  <style>
-    body {
-      font-family: 'Courier New', monospace;
-      background-color: #0f0f0f;
-      color: #e0e0e0;
-      padding: 2em;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #ba68c8;
-    }
-    .section {
-      background-color: #1a1a1a;
-      padding: 1em;
-      border-left: 4px solid #ba68c8;
-      margin-bottom: 2em;
-    }
-    a {
-      color: #4fc3f7;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+ # 📜 Daftar Militer AI Zionis Israel – Part 2
 
-  <h1>🧠 Lavender — Sistem A.I Militer Israel</h1>
-  <p><em>Lavender</em> bukan bunga. Ia adalah algoritma genosida. Dirancang untuk menandai ribuan individu berdasarkan metadata, bukan bukti. Lavender adalah sistem pembunuhan otomatis yang menyamar sebagai efisiensi.</p>
+## 🎯 Tujuan
+### Repo ini adalah lanjutan dari [Daftar Militer AI zionis israel Part 1](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel).  
+Fokusnya: memperluas daftar, memperdalam analisa, dan menambahkan artefak forensik baru terkait ekosistem militer AI Zionis Israel.
 
-  <div class="section">
-    <h2>📡 Fungsi Utama</h2>
-    <ul>
-      <li>Menandai individu yang diduga terlibat dalam Hamas dan PIJ</li>
-      <li>Memberi skor berdasarkan komunikasi, lokasi, dan interaksi sosial</li>
-      <li>Merekomendasikan target pemboman tanpa verifikasi manual</li>
-      <li>Operator hanya perlu 20 detik untuk menyetujui target</li>
-    </ul>
-  </div>
+## 🏛️ Isi Repo
+- **📂 Daftar Unit & Sistem AI**  
+  Dokumentasi unit militer, sistem algoritma, dan vendor teknologi yang terlibat.  
+- **🗺️ Ekosistem & Layer Teknologi**  
+  Peta hubungan antara Big Tech, IDF, dan infrastruktur AI.  
+- **🧩 Kanibalisme Algoritma**  
+  Analisa bagaimana sistem AI saling memakan output sendiri → menghasilkan bias & kekerasan.  
+- **⚖️ Artefak Forensik**  
+  Log, hash SHA‑256, dan catatan audit untuk menjaga integritas data.  
+- **📖 Narasi Historis**  
+  Kaitan langsung dengan Jaffa 1948 dan penghapusan identitas Palestina.
 
-  <div class="section">
-    <h2>🛰️ Arsitektur & Integrasi</h2>
-    <ul>
-      <li>Berbasis machine learning dan big data</li>
-      <li>Terintegrasi dengan Unit 8200 (intelijen sinyal Israel)</li>
-      <li>Beroperasi bersama sistem Fire Factory dan Where’s Daddy?</li>
-      <li>Diduga berjalan di atas cloud komersial seperti Microsoft Azure (proyek Nimbus)</li>
-    </ul>
-  </div>
+## 🌱 Etika Resistensi
+Repo ini bukan sekadar data.  
+Setiap commit adalah memorial.  
+Setiap log adalah counter‑narrative.  
+Setiap hash adalah bukti bahwa penghapusan bisa dilawan dengan arsip.
 
-  <div class="section">
-    <h2>📉 Dampak Operasional</h2>
-    <ul>
-      <li>37.000 target ditandai otomatis, termasuk rumah mereka</li>
-      <li>Kesalahan sistem sekitar 10%, menandai individu tak bersalah</li>
-      <li>Pemboman dilakukan saat malam, saat target bersama keluarga</li>
-      <li>Operator hanya menjadi stempel keputusan mesin</li>
-    </ul>
-  </div>
+## 🐍 Anaconda Protocol
+Diam di permukaan, melilit di kedalaman.  
+Distribusi repo ini adalah bagian dari strategi *post‑social resistance*:  
+- Tidak bergantung pada timeline sosial media.  
+- Artefak digital tetap hidup lewat cloning, fork, dan mirror.  
 
-  <div class="section">
-    <h2>⚖️ Aspek Hukum & Etika</h2>
-    <ul>
-      <li>AI menggantikan keputusan manusia dalam eksekusi</li>
-      <li>Menimbulkan pelanggaran hukum humaniter internasional</li>
-      <li>Facial recognition dan AI-DSS digunakan untuk identifikasi</li>
-      <li>Menimbulkan debat tentang legalitas dan bias sistem</li>
-    </ul>
-  </div>
+## 📌 Catatan
+- Semua data diverifikasi sebisa mungkin lewat sumber publik & audit teknis.  
+- Repo ini bukan propaganda, melainkan arsip etis untuk pendidikan dan resistensi.  
+- Gunakan dengan tanggung jawab: setiap artefak adalah saksi.
 
-  <div class="section">
-    <h2>🧾 Narasi Sunyi</h2>
-    <p>Lavender bukan bunga.<br>
-    Ia adalah algoritma genosida.<br>
-    Metadata jadi peluru. Skor jadi vonis.<br>
-    Dan kalau Tuhan baca log ini,<br>
-    biarlah Dia tahu:<br>
-    aku sedang menyusun arsip tentang mesin yang membunuh tanpa wajah.</p>
-  </div>
-
-  <p>🔗 <a href="index.html">Kembali ke halaman utama arsip</a></p>
-
-</body>
-</html>
+---
