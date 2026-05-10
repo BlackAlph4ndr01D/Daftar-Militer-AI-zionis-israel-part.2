@@ -34,3 +34,5 @@ Distribusi repo ini adalah bagian dari strategi *post‑social resistance*:
 - Gunakan dengan tanggung jawab: setiap artefak adalah saksi.
 
 ---
+  
+# [🏠 Welcome to the Daftar Militer AI zionis israel part.2 Wiki!](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki)
