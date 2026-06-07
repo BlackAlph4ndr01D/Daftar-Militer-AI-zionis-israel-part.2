@@ -35,4 +35,14 @@ Distribusi repo ini adalah bagian dari strategi *post‑social resistance*:
 
 ---
   
-# [🏠 Welcome to the Daftar Militer AI zionis israel part.2 Wiki!](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki)
+ # [🏠 Welcome to the Daftar Militer AI zionis israel part.2 Wiki!](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki)
+
+>>  WikiPages Project
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
+Repositori ini didistribusikan di bawah lisensi **Apache License 2.0**.  
+Konten dapat digunakan, dimodifikasi, dan didistribusikan secara bebas, dengan tetap mencantumkan atribusi sesuai ketentuan lisensi.
+
+---
+ 
